@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Starting window: dark navy background. Compose draws the real UI afterwards. -->
+    <style name="Theme.OmniTools.Starting" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/omni_navy</item>
+        <item name="android:statusBarColor">@color/omni_navy</item>
+        <item name="android:navigationBarColor">@color/omni_navy</item>
+    </style>
+</resources>
